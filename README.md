@@ -1,0 +1,2 @@
+# CSC566_Tomato-Leaf-Disease-Classification-using-Convolutional-Neural-Network-CNN-
+1. To develop an Automated Classification System based on Convolutional Neural Networks (CNN). 2. To enhance Early Detection and Diagnosis of tomato leaf diseases to support timely intervention and reduce crop losses. 3. To evaluate Model Performance Using Real-World Data on the CNN model through comprehensive testing on a separate dataset.
